@@ -1,0 +1,38 @@
+George Orwell
+Works:
+Stats: The Spike 1931 50.04
+Stats: A Hanging 1931 49.16
+Stats: Shooting an Elephant 1936 48.87
+Stats: Down the Mine 1937 64.54
+Stats: North and South 1937 57.75
+Stats: Spilling the Spanish Beans 1937 61.21
+Stats: Marrakech 1939 63.6
+Stats: Boys’ Weeklies and Frank Richards’s Reply 1940 70.02
+Stats: Wells, Hitler and the World State 1941 65.86
+Stats: Mark Twain — The Licensed Jester 1943 58.69
+Stats: Poetry and the Microphone 1943 63.8
+Stats: W B Yeats 1943 53.66
+Stats: Arthur Koestler 1944 59.57
+Stats: Benefit of Clergy: Some Notes on Salvador Dali 1944 56.6
+Stats: Antisemitism in Britain 1945 59.18
+Stats: Freedom of the Park 1945 56.04
+Stats: Future of a Ruined Germany 1945 70.01
+Stats: Good Bad Books 1945 60.08
+Stats: In Defence of P. G. Wodehouse 1945 60.44
+Stats: Nonsense Poetry 1945 64.55
+Stats: Revenge is Sour 1945 60.08
+Stats: The Sporting Spirit 1945 56.72
+Stats: You and the Atomic Bomb 1945 67.09
+Stats: A Good Word for the Vicar of Bray 1946 53.91
+Stats: A Nice Cup of Tea 1946 56.99
+Stats: Books vs. Cigarettes 1946 59.66
+Stats: Confessions of a Book Reviewer 1946 52.15
+Stats: Decline of the English Murder 1946 57.89
+Stats: How the Poor Die 1946 54.09
+Stats: Pleasure Spots 1946 52.08
+Stats: Riding Down from Bangor 1946 64.04
+Stats: Some Thoughts on the Common Toad 1946 64.62
+Stats: The Prevention of Literature 1946 63.62
+Stats: Why I Write 1946 56.22
+Stats: Reflections on Gandhi 1949 57.09
+00000
