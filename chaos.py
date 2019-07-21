@@ -34,7 +34,7 @@ class catorgories:
     def get_catagory_num(self,catagory):
         return self.num_in_cats[catagory]
       
-def max_cat(self):
+    def max_cat(self):
         most = 0
         cat = 0
         
@@ -55,6 +55,7 @@ def max_cat(self):
         return cat
 import math
 from datetime import datetime
+import matplotlib.pyplot as plt
 class tools:
     #returns the ceiling of n/e
     def stop_point(n):
@@ -138,3 +139,5 @@ class tools:
             plt.fill()
         
         return wave   
+    
+
