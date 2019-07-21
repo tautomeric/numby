@@ -33,7 +33,26 @@ class catorgories:
 
     def get_catagory_num(self,catagory):
         return self.num_in_cats[catagory]
-
+      
+def max_cat(self):
+        most = 0
+        cat = 0
+        
+        for i in self.num_in_cats:
+            if self.num_in_cats[i]>=most:
+                most = self.num_in_cats[i]
+                cat = i
+        return cat
+    
+    def min_cat(self):
+        most = 0
+        cat = 0
+        
+        for i in self.num_in_cats:
+            if self.num_in_cats[i]<=most:
+                most = self.num_in_cats[i]
+                cat = i
+        return cat
 import math
 from datetime import datetime
 class tools:
@@ -105,4 +124,17 @@ class tools:
             return a % max_seed
         else:
             return max_seed % a
-              
+     
+     #returns an array with data for a wave with psuedorandom interferance 
+     #also can (see_wave=True) print a graph of a random wave.
+    def random_wave(see_wave=False):
+        cut_points = np.random.randint(2000,4000,2)
+        cut_points.sort()
+        disbute = np.random.normal(4,43,4000)
+        wave = disbute[cut_points[0]:cut_points[1]]
+        
+        if see_wave:
+            plt.plot(wave)
+            plt.fill()
+        
+        return wave   
