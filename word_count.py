@@ -15,14 +15,17 @@ inpt = input("Writtings: ")
 length = len(inpt)  
     
 num_letter = [0 for x in range(26)]
+number = 0
 for i in range(length):
     check = ord(inpt[i])
     if 97 <= check <= 122:
         num_letter[check-97]+=1
+        number += 1
     elif 65 <= check <= 90:
         num_letter[check-90]+=1
+        number += 1
         
-y = np.array([x/length*100 for x in num_letter])
+y = np.array([x/number*100 for x in num_letter])
 
 ind = np.arange(26) 
 width = 0.35      
