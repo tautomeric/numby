@@ -187,7 +187,6 @@ class overlay:
             return np.array(spectra_defined)
             
             
-a = spectrum(2.2,4.2,6) 
-print(a.spectrum_skeleton)      
+
         
         
